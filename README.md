@@ -8,8 +8,11 @@ server usable inside nodejs but done in C++ to be FAST.
 Libraries:
 
 jsmn - json parser https://github.com/zserge/jsmn - MIT Licence
+
 redis- database https://redis.io - bSD 3-Clause License
+
 nodejs - main tool that makes everything work...
+
 re2c - regular expression to C code http://re2c.org - Public domain
 
 Since this is a sample project and not production code, I'll put
